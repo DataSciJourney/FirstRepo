@@ -1,3 +1,3 @@
 # FirstRepo
 
-print 'hello world!'
+'hello world!'
